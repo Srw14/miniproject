@@ -1,0 +1,6 @@
+[
+  { "Type": 1, "Price": 25.0, "ProductID": 1, "Name": "green tea" },
+  { "Type": 1, "Price": 10.0, "ProductID": 2, "Name": "tae" },
+  { "Type": 1, "Price": 15.0, "ProductID": 3, "Name": "milk" },
+  { "Type": 1, "Price": 20.0, "ProductID": 4, "Name": "Thai tea" }
+]
